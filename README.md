@@ -10,6 +10,6 @@ Swift and become profiecient in learning IOS app development.
 
 * Hello World: Java console application
 
-*Hello World: Android app
+* Hello World: Android app
 
 ##Links 
