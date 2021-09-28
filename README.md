@@ -13,3 +13,6 @@ Swift and become profiecient in learning IOS app development.
 * Hello World: Android app
 
 ##Links 
+
+* [LinkedIn]({https://www.linkedin.com/in/royce-reano-445680221/})
+
