@@ -6,4 +6,10 @@ After graduation my goal is to start a career in mobile app development or softw
 Swift and become profiecient in learning IOS app development. 
 
 ## Current Projects 
+
+
+* Hello World: Java console application
+
+*Hello World: Android app
+
 ##Links 
