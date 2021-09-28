@@ -14,5 +14,5 @@ Swift and become profiecient in learning IOS app development.
 
 ##Links 
 
-* [LinkedIn]({https://www.linkedin.com/in/royce-reano-445680221/})
+* [LinkedIn](https://www.linkedin.com/in/royce-reano-445680221/)
 
