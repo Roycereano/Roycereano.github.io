@@ -16,6 +16,6 @@ Swift and become profiecient in learning IOS app development.
 
 * [LinkedIn](https://www.linkedin.com/in/royce-reano-445680221/)
 
-* [Hello World: Java console application](git@github.com:Roycereano/hello-world-java-1.git)
+* [Hello World: Java console application](https://github.com/Roycereano/hello-world-java-1)
 
-* [Hello World: Android app](git@github.com:Roycereano/hello-world-android1.git)
+* [Hello World: Android app](https://github.com/Roycereano/hello-world-android1)
