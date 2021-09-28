@@ -19,9 +19,3 @@ Swift and become profiecient in learning IOS app development.
 * [Hello World: Java console application](https://github.com/Roycereano/hello-world-java-1)
 
 * [Hello World: Android app](https://github.com/Roycereano/hello-world-android1)
-
-> A blockquote indicates the content is a quote, an e-mail being replied to, etc. 
-
-> 
-
-> Every line (blank or not) of a blockquote begins with '>', followed bya space. 
